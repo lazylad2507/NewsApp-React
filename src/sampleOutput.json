@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Indian fintech Money View valued at $900 million in new funding",
+            "description": "Indian fintech Money View has raised $75 million in a new funding round, its second this year, and is now valued at $900 million.",
+            "url": "https://techcrunch.com/2022/12/26/indian-fintech-money-view-valued-at-900-million-in-new-funding/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-536118200.jpg?resize=1200,801",
+            "publishedAt": "2022-12-26T08:16:11Z",
+            "content": "Indian fintech Money View said on Monday it has raised $75 million in a new funding round, its second this year, despite the market slump as it looks to scale its core credit business and build more … [+2594 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Amanda Silberling",
+            "title": "This year in tech felt like a simulation",
+            "description": "This year in tech, too much happened and very little of it made sense, so we might just be at the whims of a random number generator.",
+            "url": "https://techcrunch.com/2022/12/24/this-year-in-tech-felt-like-a-simulation/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/vr-headset-abstract-simulation.jpg?resize=1200,799",
+            "publishedAt": "2022-12-23T22:18:20Z",
+            "content": "This year in tech, too much happened and very little of it made sense. It was like we were being controlled by a random number generator that would dictate the whims of the tech industry, leading to … [+4860 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall",
+            "title": "Daily Crunch: Meta to pay $725M settlement in Cambridge Analytica data access case",
+            "description": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+            "url": "https://techcrunch.com/2022/12/23/meta-to-pay-725m-settlement-in-cambridge-analytica-data-access-case/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1368412925.jpg?resize=1200,789",
+            "publishedAt": "2022-12-23T21:38:00Z",
+            "content": "To get a roundup of TechCrunchs biggest and most important stories delivered to your inbox every day at 3 p.m. PDT,subscribe here.\r\nToday we celebrate a bit of oversight over an industry that has bee… [+4206 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Greg Kumparak",
+            "title": "TechCrunch's Favorite Things of 2022",
+            "description": "We made it! Another year (nearly!) complete. Go team! The end of the year means many things — holidays, food, family, reflection, etc. Around these parts, it also means it’s time for the TechCrunch Favorite Things list. Each year Team TechCrunch puts together…",
+            "url": "https://techcrunch.com/2022/12/23/techcrunchs-favorite-things-of-2022/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/gift-guide-22-favorite-things.jpg?resize=1200,645",
+            "publishedAt": "2022-12-23T20:05:40Z",
+            "content": "We made it! Another year (nearly!) complete. Go team!\r\nThe end of the year means many things holidays, food, family, reflection, etc. Around these parts, it also means it’s time for the TechCrunch Fa… [+26295 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ingrid Lunden",
+            "title": "How Mastodon is scaling amid the Twitter exodus",
+            "description": "Under Elon Musk, Twitter has lost more than half its staff through layoffs and quitting, made erratic moves in its product and platform strategies and is facing up to reports about its financial state.",
+            "url": "https://techcrunch.com/2022/12/23/how-mastodon-is-scaling-amid-the-twitter-exodus/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/mastodon-app-ios.jpg?resize=1200,675",
+            "publishedAt": "2022-12-23T19:46:20Z",
+            "content": "Twitter is in crisis these days. Under new owner Elon Musk, the service has lost more than half its staff through layoffs and quitting, made erratic moves in its product and platform strategies and i… [+9790 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ingrid Lunden",
+            "title": "Mastodon creator Eugen Rochko talks funding and how to build the anti-Twitter",
+            "description": "Mastodon’s success has somewhat taken its creator Eugen Rochko by surprise, but he's steadfast on maintaining its non-profit nature.",
+            "url": "https://techcrunch.com/2022/12/23/mastodon-creator-eugen-rochko-talks-funding-and-how-to-build-the-anti-twitter/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/eugen-rochko-mastodon.jpg?resize=1200,645",
+            "publishedAt": "2022-12-23T19:45:26Z",
+            "content": "Eugen Rochko came up with the idea for and built Mastodon some six years ago during another one of Twitter’s dips. A developer who had already been interested in and was working with open source soft… [+3767 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Devin Coldewey",
+            "title": "The FCC can finally hammer predatory prison phone call companies, thanks to just-passed bill",
+            "description": "A brand new law will let the Federal Communications Commission directly regulate rates in the notoriously predatory prison calling industry.",
+            "url": "https://techcrunch.com/2022/12/22/the-fcc-can-finally-hammer-predatory-prison-phonecall-companies-thanks-to-just-passed-bill/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/12/inmate-video-call.jpg?resize=1200,675",
+            "publishedAt": "2022-12-22T23:29:08Z",
+            "content": "A brand-new law (awaiting only the president’s signature) will let the Federal Communications Commission directly regulate rates in the notoriously predatory prison calling industry. Under the threat… [+4366 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Dominic-Madori Davis",
+            "title": "3 Black investors share what they are prepping for come the new year",
+            "description": "For 2023, it appears investors are focusing on trends that are relatively safer and likelier to bear fruit.",
+            "url": "https://techcrunch.com/2022/12/23/3-black-investors-share-what-they-are-prepping-for-come-the-new-year/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-957043250.jpg?resize=1200,750",
+            "publishedAt": "2022-12-22T18:42:04Z",
+            "content": "This years been eventful for investors and founders alike. Just as it seemed the venture capital boom of 2021 was slowing down, the startup and VC worlds spun on their axes practically overnight, bir… [+1751 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lauren Forristal",
+            "title": "How to track Santa Claus this Christmas Eve",
+            "description": "With tracking tools like the NORAD Santa Tracker and Google’s Santa Tracker, everyone can follow Santa’s journey this Christmas Eve.",
+            "url": "https://techcrunch.com/2022/12/24/how-to-track-santa-claus-this-christmas-eve-2022/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/pexels-photo-6113449.jpg",
+            "publishedAt": "2022-12-19T18:38:00Z",
+            "content": "If youre a parent with young children, then you’ll probably hear this a lot on Christmas Eve: Wheres Santa right now? With tracking tools like the NORAD Santa Tracker and Googles Santa Tracker, every… [+3324 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Haje Jan Kamps",
+            "title": "Don't stop writing, or your words will vanish off the page",
+            "description": "The year is coming to an end, and with it, I continue an annual tradition of writing a x words about x piece. This year, that means trying to cram the year 2022 into 2,022 words. As you might imagine, that’s a lot. I usually write 5,000-6,000 words and then h…",
+            "url": "https://techcrunch.com/2022/12/25/the-most-dangerous-writing-app/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/dangerous-Large.jpeg?resize=1200,632",
+            "publishedAt": "2022-12-12T10:51:17Z",
+            "content": "The year is coming to an end, and with it, I continue an annual tradition of writing a x words about x piece. This year, that means trying to cram the year 2022 into 2,022 words. As you might imagine… [+2871 chars]"
+        }
+    ]
+}
